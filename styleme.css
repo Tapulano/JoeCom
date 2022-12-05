@@ -86,7 +86,7 @@ body {
 
 /* welcome section */
 #welcome-section {
-  background-image: url('Joey2.jpg');
+  background-image: url('joey2.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
   display: flex;
